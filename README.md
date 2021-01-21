@@ -1,4 +1,7 @@
 # CircuitPython.
+
+
+```python
 import board
 import time
 import servo
@@ -24,3 +27,4 @@ while True:
         my_servo.angle = 180
         print("Touched A5!")
     time.sleep(0.05)
+```
