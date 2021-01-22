@@ -1,7 +1,7 @@
 # CircutPython
 
 ### Description
-I wrote this code an eterity ago, with an incredibly out of date metro express (version 2.1.4) im still in amazment and bewilderment that this worked at some point. but after i updated my board it stopped working. so  ¯\_(ツ)_/¯.
+I wrote this code an eterity ago, with an incredibly out of date metro express (version 2.1.4) im still in amazment and bewilderment that this worked at some point. but after i updated my board it stopped working. so  ¯ \_(ツ)_/¯.
 ### Evidense
 
 ```python
