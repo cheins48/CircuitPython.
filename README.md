@@ -19,7 +19,7 @@ while True:
      dot.fill((100,0,0))
      time.sleep(100)
 ```
-### CircutPython Servo
+# CircutPython Servo
 ### Description
 hank helped me write his code in my time of need.  basically when, when i touch either A4 or A5, my finger will send a current and the servo will switch direction, depending on which way its spinning. https://github.com/hdpow/CircutPython
 ### Evidence
