@@ -3,6 +3,8 @@
 ### Description
 I wrote this code an eterity ago, with an incredibly out of date metro express (version 2.1.4) im still in amazment and bewilderment that this worked at some point. but after i updated my board it stopped working. so  ¯\_(ツ)_/¯.
 ### Evidense
+
+'''python
 import board
 import neopixel
 import time
@@ -16,6 +18,7 @@ while True:
      time.sleep(100)
      dot.fill((100,0,0))
      time.sleep(100)
+'''python
 
 ### Description
 hank helped me write his code in my time of need.  basically when, when i touch either A4 or A5, my finger will send a current and the servo will switch direction, depending on which way its spinning. https://github.com/hdpow/CircutPython
